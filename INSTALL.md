@@ -4,7 +4,7 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/mawiseman/keypirinha-theme-dracula.git
+    $ git clone https://github.com/dracula/keypirinha.git
 
 #### Install manually
 
