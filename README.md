@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/keypirinha](https://draculath
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/keypirinha/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/keypirinha/contributors).
 
 [![Mark Wiseman](https://avatars0.githubusercontent.com/u/1597273?v=3&s=70)](https://github.com/mawiseman) | 
 --- | 
