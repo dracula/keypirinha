@@ -12,8 +12,8 @@ Download using the [GitHub .zip download](https://github.com/dracula/keypirinha/
 
 #### Activating theme
 
-1. Right click `Keypirinah`
-2. Select `Configure Keypirinah`
-3. Copy the contents from `Dracula.ini` to `Keypirinah.ini`
+1. Right click `Keypirinha`
+2. Select `Configure Keypirinha`
+3. Copy the contents from `Dracula.ini` to `Keypirinha.ini`
 
 NOTE: make sure you don't duplicate the `[gui]` or `[theme/Dracula]` sections
